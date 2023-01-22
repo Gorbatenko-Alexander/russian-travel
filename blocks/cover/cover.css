@@ -1,0 +1,10 @@
+.cover {
+  margin: 0 auto;
+  max-width: 1184px;
+  font-size: 0;
+  display: grid;
+  grid-template-rows: auto 1fr;
+  grid-template-columns: 1fr;
+  text-decoration: none;
+  color: white;
+}
