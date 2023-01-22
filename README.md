@@ -10,3 +10,5 @@ blocks       | CSS по БЭМ
 images       | Изображения
 pages        | CSS для отдельных страниц
 vendor       | Файлы сторонних разработчиков
+
+[Ссылка на деплой](https://gorbatenko-alexander.github.io/russian-travel/ "Github Pages")
