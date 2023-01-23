@@ -1,11 +1,17 @@
 .cover__overlay {
+  display: block;
   width: 100%;
-  opacity: 70%;
+  padding-top: 62.5%;
+  background-color: rgba(42, 44, 47, 0.3);
   grid-column: 1;
   grid-row: 1;
-  transition: opacity 0.3s linear;
+  transition: background-color 0.3s linear;
+  text-decoration: none;
+  color: white;
+  position: relative;
+  box-sizing: border-box;
 }
 
-.cover:hover .cover__overlay {
-  opacity: 20%;
+.cover__overlay:hover {
+  background-color: rgba(42, 44, 47, 0.8);
 }
